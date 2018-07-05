@@ -1,8 +1,6 @@
 architect-iso
 ==================
-[Banner]: https://github.com/tuxarch/architect-iso/raw/master/architect.png 
-"https://plus.google.com/communities/112233698529064148915"
-
+[[https://github.com/tuxarch/architect-iso/raw/master/architect.png|alt=https://plus.google.com/communities/112233698529064148915]]
 
 ### Source for Architect iso builds with
 `cli_installer` [aif](https://github.com/tuxarch/aif)
